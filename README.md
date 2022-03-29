@@ -34,12 +34,12 @@
 
 구동화면
 -------------
-* 공 튕기기 게임
+* 공 튕기기 게임 (pygame_project)
 
 ![bandicam 2022-03-29 09-35-45-072](https://user-images.githubusercontent.com/63482037/160511710-a5fb4128-5a82-44ce-b21e-db4b769d0d91.gif)
 
 
-* 똥 피하기 게임
+* 똥 피하기 게임 (pygame_basic)
 
 ![bandicam 2022-03-29 09-25-12-814](https://user-images.githubusercontent.com/63482037/160512572-be6989b3-840e-4a75-a11c-7d624ff3ba0c.gif)
 
